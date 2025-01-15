@@ -1,0 +1,26 @@
+
+body{
+  background-color: #FFF98D;
+  text-align: center;
+  font-family: Helvetica;
+  width: 1000px;
+  margin-top: 100px;
+  font-color: #42210B;
+}
+.navbutton{
+  width:150px;
+}
+div{
+  background-color:#FFFFFF;
+  padding:15px;
+}
+a{
+  color:#42210B;
+}
+nav{
+  margin-bottom: 25px;
+}
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
